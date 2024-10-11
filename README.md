@@ -54,7 +54,3 @@ _python analysis.py_
 * Start the Dash dashboard:
 _python dashboard.py_
 
-Author
-Yasser Ashraf Mohammed Gaber
-[LinkedIn]([https://www.linkedin.com/in/yasserashraf/]) | [GitHub]([url](https://www.linkedin.com/in/yasserashraf/))
-
