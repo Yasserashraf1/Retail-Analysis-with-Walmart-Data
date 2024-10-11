@@ -56,5 +56,5 @@ _python dashboard.py_
 
 Author
 Yasser Ashraf Mohammed Gaber
-[LinkedIn]([url](https://www.linkedin.com/in/yasserashraf/)) | [GitHub]([url](https://www.linkedin.com/in/yasserashraf/))
+[LinkedIn]([https://www.linkedin.com/in/yasserashraf/]) | [GitHub]([url](https://www.linkedin.com/in/yasserashraf/))
 
